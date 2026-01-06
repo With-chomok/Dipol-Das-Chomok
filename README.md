@@ -1,4 +1,4 @@
-# DevPortfolio - React Portfolio
+# MyPortfolio -  Dipol Das
 
 A modern, responsive portfolio website built with React, TypeScript, Tailwind CSS, and shadcn/ui components.
 
