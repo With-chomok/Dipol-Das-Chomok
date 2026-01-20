@@ -1,4 +1,4 @@
-# DevPortfolio - React Portfolio
+# MyPortfolio -  Dipol Das
 
 A modern, responsive portfolio website built with React, TypeScript, Tailwind CSS, and shadcn/ui components.
 
@@ -21,36 +21,6 @@ A modern, responsive portfolio website built with React, TypeScript, Tailwind CS
 - **shadcn/ui** - High-quality React components
 - **Lucide React** - Beautiful icons
 
-## 📦 Installation
-
-1. Clone the repository:
-
-```bash
-git clone <repository-url>
-cd dev-portfolio
-```
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Start the development server:
-
-```bash
-npm run dev
-```
-
-4. Open your browser and visit `http://localhost:5173`
-
-## 🏗️ Build for Production
-
-```bash
-npm run build
-```
-
-The built files will be in the `dist` directory.
 
 ## 📁 Project Structure
 
