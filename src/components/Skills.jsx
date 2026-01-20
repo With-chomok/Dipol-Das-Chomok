@@ -126,7 +126,7 @@ const Skills = () => {
             {skills.map((skill, index) => (
               <motion.div
                 key={index}
-                className="skill-card flex flex-col items-center justify-center p-6 rounded-lg bg-surface-dark border border-border-dark hover:border-primary transition-all duration-300 group"
+                className="skill-card flex flex-col items-center justify-center p-6 rounded-lg bg-surface-dark mb-1  border border-border-dark hover:border-primary transition-all duration-300 group"
                 variants={skillVariants}
                 whileHover="hover"
                 custom={index}>

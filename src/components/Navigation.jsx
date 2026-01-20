@@ -146,13 +146,16 @@ const Navigation = () => {
                 </motion.a>
               ))}
             </div>
-            <motion.button
+            <motion.a
+              href="https://drive.google.com/file/d/1Edv3quFdQ1S978etb6oqc8uAUDRG78hC/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-[#112217] text-sm font-bold leading-normal tracking-[0.015em] hover:bg-[#25cc5c] transition-colors"
               variants={buttonVariants}
               whileHover="hover"
               whileTap="tap">
               <span className="truncate">Hire Me</span>
-            </motion.button>
+            </motion.a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -200,14 +203,17 @@ const Navigation = () => {
                   {item.label}
                 </motion.a>
               ))}
-              <motion.button
-                className="w-full flex items-center justify-center gap-2 py-3 px-4 bg-primary text-[#112217] rounded-lg font-bold text-sm hover:bg-[#25cc5c] transition-colors"
-                variants={mobileItemVariants}
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}>
-                Hire Me
-              </motion.button>
             </div>
+            <motion.a
+              href="https://drive.google.com/file/d/1Edv3quFdQ1S978etb6oqc8uAUDRG78hC/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-full flex items-center justify-center gap-2 py-3 px-4 bg-primary text-[#112217] rounded-lg font-bold text-sm hover:bg-[#25cc5c] transition-colors"
+              variants={mobileItemVariants}
+              whileHover={{ scale: 1.02 }}
+              whileTap={{ scale: 0.98 }}>
+              Hire Me
+            </motion.a>
           </motion.div>
         )}
       </AnimatePresence>
