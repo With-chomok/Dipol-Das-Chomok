@@ -147,7 +147,7 @@ const Navigation = () => {
               ))}
             </div>
             <motion.a
-              href="https://drive.google.com/file/d/1Edv3quFdQ1S978etb6oqc8uAUDRG78hC/view?usp=sharing"
+              href="https://drive.google.com/file/d/1zZrpc9PfA1YnpFXVjRPN-jXJ8AikUPFl/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-[#112217] text-sm font-bold leading-normal tracking-[0.015em] hover:bg-[#25cc5c] transition-colors"
@@ -205,7 +205,7 @@ const Navigation = () => {
               ))}
             </div>
             <motion.a
-              href="https://drive.google.com/file/d/1Edv3quFdQ1S978etb6oqc8uAUDRG78hC/view?usp=sharing"
+              href="https://drive.google.com/file/d/1zZrpc9PfA1YnpFXVjRPN-jXJ8AikUPFl/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-center justify-center gap-2 py-3 px-4 bg-primary text-[#112217] rounded-lg font-bold text-sm hover:bg-[#25cc5c] transition-colors"

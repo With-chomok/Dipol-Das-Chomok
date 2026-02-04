@@ -157,7 +157,7 @@ const Hero = () => {
                 <div className="absolute -inset-4 bg-gradient-to-r from-primary/20 via-primary/10 to-primary/20 rounded-3xl blur-xl opacity-0 group-hover:opacity-100 transition-all duration-1000"></div>
 
                 {/* Main Card */}
-                <div className="relative   md:mt-16 md:w-[500px] bg-gradient-to-br from-surface-dark/80 to-surface-dark/40 backdrop-blur-xl border border-border-dark/50 rounded-2xl p-6 lg:p-8 shadow-2xl transform transition-all duration-500 hover:scale-105 hover:border-primary/30 flex flex-col items-center text-center">
+                <div className="relative md:mt-16 md:w-[500px] bg-gradient-to-br from-surface-dark/80 to-surface-dark/40 backdrop-blur-xl border border-border-dark/50 rounded-2xl p-6 lg:p-8 shadow-2xl transform transition-all duration-500 hover:scale-105 hover:border-primary/30 flex flex-col items-center text-center">
                   {/* Profile Image */}
                   <motion.div
                     className="relative mb-6 flex justify-center"
@@ -258,7 +258,7 @@ const Hero = () => {
 
                   {/* Download CV Button */}
                   <motion.a
-                  href="https://drive.google.com/file/d/1Edv3quFdQ1S978etb6oqc8uAUDRG78hC/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1zZrpc9PfA1YnpFXVjRPN-jXJ8AikUPFl/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                     className="w-full group/btn relative overflow-hidden bg-gradient-to-r from-primary/10 to-primary/5 hover:from-primary hover:to-primary/80 border border-primary/30 hover:border-primary rounded-lg py-3 px-4 text-primary hover:text-[#112217] font-bold transition-all duration-500 hover:scale-105 hover:shadow-lg hover:shadow-primary/25 flex items-center justify-center gap-2 text-sm"
